@@ -1,0 +1,163 @@
+[0715/110412.714:ERROR:ui\gl\direct_composition_support.cc:612] AMD VideoProcessorGetOutputExtension failed: Unspecified error (0x80004005)
+[0715/133102.163:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/133525.634:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/154222.785:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/174042.049:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/185019.983:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/192307.061:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/192308.561:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/201635.809:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0715/214417.289:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/025806.992:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/031155.732:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/034222.727:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/070516.885:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/073544.120:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/094213.626:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/101240.536:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/110601.830:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/153719.630:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/161347.805:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/161349.383:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0716/191826.459:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/023226.262:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/031727.769:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/054645.466:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/073745.368:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/080812.408:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/115155.132:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/153213.755:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/153218.757:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0717/171155.669:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0717/171250.924:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0722/144510.576:ERROR:ui\gl\direct_composition_support.cc:612] AMD VideoProcessorGetOutputExtension failed: Unspecified error (0x80004005)
+[0722/153730.028:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0722/164059.877:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0722/194940.147:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0722/194945.149:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0722/222700.425:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0722/234113.272:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/001144.566:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/014400.802:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/021427.275:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/051006.988:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/052409.830:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/065141.799:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/065813.200:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/072840.569:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/073106.181:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/073106.227:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/080134.812:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/110722.478:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/121554.419:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/121604.384:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/121605.755:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/140307.910:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/141732.180:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/160535.944:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/163806.970:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/175729.650:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0723/190043.295:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/193059.741:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/200126.658:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0723/224801.602:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/033855.212:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/053025.249:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/055025.679:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/062052.612:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/105825.221:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/112246.960:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/120114.637:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0724/124917.742:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0724/125141.029:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+ (No more compiler logs will be reported in logs)
+[0724/152401.450:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/152406.453:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/164754.124:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0724/220849.937:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/014858.664:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/022057.966:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/050107.201:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/070018.987:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/073046.443:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/092201.322:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/181200.263:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/192448.929:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/192449.305:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0725/205651.193:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/004333.327:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/011400.905:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/012908.242:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/012908.281:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/012909.211:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/015938.871:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/032700.198:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/032700.306:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/035728.745:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/042136.287:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/062142.121:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/085620.355:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/092647.552:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/105417.199:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/174216.619:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/185807.483:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/185808.326:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/185808.389:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/192836.733:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/235711.400:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0726/235711.476:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/002739.096:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/030637.251:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/030637.359:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/033704.903:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/060522.245:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/060522.493:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/063550.545:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/101821.283:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/101821.328:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/150240.548:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/150245.551:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/154613.233:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/164509.877:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/180730.179:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/200704.934:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0727/200709.937:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/033405.977:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/043108.041:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/050135.080:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/064121.005:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/105613.438:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/114400.738:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/161216.917:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/161221.920:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/195246.660:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0728/195251.663:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/061339.518:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/105344.875:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/105347.739:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/144320.155:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/160014.842:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/163120.309:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/164204.888:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/202500.857:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/202505.861:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0729/231153.595:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0730/013406.090:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0730/015459.973:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0730/031951.364:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0730/064701.418:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0803/133158.607:ERROR:ui\gl\direct_composition_support.cc:612] AMD VideoProcessorGetOutputExtension failed: Unspecified error (0x80004005)
+[0803/192252.187:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0803/192257.190:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0803/235110.398:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0804/020316.738:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0804/030046.595:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0804/043907.661:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0804/063950.746:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0804/102828.167:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[0804/102830.026:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
