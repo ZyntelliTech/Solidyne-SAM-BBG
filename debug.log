@@ -203,3 +203,7 @@
 [0924/083317.953:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
 [0924/090945.690:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
 [0924/105933.939:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[1015/045426.570:ERROR:ui\gl\direct_composition_support.cc:612] AMD VideoProcessorGetOutputExtension failed: Unspecified error (0x80004005)
+[1015/054610.754:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[1015/060829.074:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
+[1015/063926.708:WARNING:net\dns\dns_config_service_win.cc:609] Failed to read DnsConfig.
